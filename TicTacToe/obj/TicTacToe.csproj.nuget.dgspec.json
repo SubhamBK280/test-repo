@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Desktop\\Tic-Tac-Toe\\TicTacToe\\TicTacToe\\TicTacToe.csproj": {}
+    "C:\\Users\\Dell\\Desktop\\Tic-Tac-Toe\\TicTacToe\\test-repo\\TicTacToe\\TicTacToe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Desktop\\Tic-Tac-Toe\\TicTacToe\\TicTacToe\\TicTacToe.csproj": {
+    "C:\\Users\\Dell\\Desktop\\Tic-Tac-Toe\\TicTacToe\\test-repo\\TicTacToe\\TicTacToe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Tic-Tac-Toe\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Tic-Tac-Toe\\TicTacToe\\test-repo\\TicTacToe\\TicTacToe.csproj",
         "projectName": "TicTacToe",
-        "projectPath": "C:\\Users\\Dell\\Desktop\\Tic-Tac-Toe\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\Tic-Tac-Toe\\TicTacToe\\test-repo\\TicTacToe\\TicTacToe.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Desktop\\Tic-Tac-Toe\\TicTacToe\\TicTacToe\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\Tic-Tac-Toe\\TicTacToe\\test-repo\\TicTacToe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
